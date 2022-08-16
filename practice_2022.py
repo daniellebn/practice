@@ -1,7 +1,10 @@
 print("Dani")
 
 
-def yosi():
-    print("yalla")
+
+def dana():
+    print("ma")
+
+
 
 

@@ -1,5 +1,7 @@
 print("Dani")
 
 
-def work():
-    print("go")
+def yosi():
+    print("yalla")
+
+
